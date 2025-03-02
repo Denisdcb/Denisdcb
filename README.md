@@ -56,5 +56,5 @@ J'adore explorer des technologies de demain et apprendre chaque jour ! 😊
     <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
     <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   </p>
-
-  <h3 align="center">✨ Merci et à bientôt ! ✨</h3>
+<hr>
+<h3 align="center">✨ Merci et à bientôt ! ✨</h3>
