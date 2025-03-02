@@ -5,14 +5,23 @@
   <img src ="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&pause=1000&color=F7DEBF&center=true&random=true&width=435&lines=I+am+a+Fullstack+WebDeveloper" />
 </p>
 <p>
-  # Bonjour, moi c'est **Denis** 👋
+  # Bonjour, moi c'est **Denis** 👋, FullStack WebDeveloper 🇫🇷
 
-Je suis un passionné de développement web et de programmation. Voici quelques informations à mon sujet :
+ 💼 Je suis un passionné de développement web et de programmation. Voici quelques informations à mon sujet :
 
 ## 🌍 Où me trouver ?
 - **GitHub** : [https://github.com/Denisdcb](https://github.com/Denisdcb)
 - **Discord** : ghosthacker89
 - **AboutMe NPX** : npx denisdcb
+
+## 🎯 Objectifs :
+- Apprendre de nouvelles technologies 📚
+- Contribuer à des projets open-source 💡
+
+## 🔥 Fun fact :
+J'adore explorer des technologies de demain et apprendre chaque jour ! 😊
+
+💬 Si vous avez des demandes concernnant mes projet c'est -> [ici](https://github.com/Denisdcb/Denisdcb/issues)
 </p>
 
 ## 🔧 Langages
