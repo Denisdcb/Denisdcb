@@ -13,6 +13,7 @@ Je suis un passionné de développement web et de programmation. Voici quelques 
 - **GitHub** : [https://github.com/Denisdcb](https://github.com/Denisdcb)
 - **Discord** : ghosthacker89
 - **AboutMe NPX** : npx denisdcb
+</p>
 
 ## 🔧 Langages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,4 +37,3 @@ Je suis un passionné de développement web et de programmation. Voici quelques 
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
-</p>
