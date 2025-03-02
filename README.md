@@ -2,10 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&letterSpacing=0.2rem&Code&pause=1000&repeat=false&color=F7D7D7&center=true&random=true&width=435&lines=Hello%2C+I'm+Denis" />
 </p>
 <p align="center">
-  <img src ="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&Code&pause=1000&repeat=false&color=F7DEBF&center=true&random=true&width=435&lines=I+am+a+Fullstack+WebDeveloper" />
+  <img src ="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&Code&pause=1000&repeat=false&color=F7DEBF&center=true&random=true&width=435&lines=I+am+a+Fullstack+Web+Developer" />
 </p>
 <p>
-  # Bonjour, moi c'est **Denis** 👋, FullStack WebDeveloper 🇫🇷
+  # Bonjour, moi c'est **Denis** 👋, FullStack Web Developer 🇫🇷
 
  💼 Je suis un passionné de développement web et de programmation. Voici quelques informations à mon sujet :
 
