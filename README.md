@@ -26,7 +26,7 @@ npx denisdcb
 ## 🔥 Fun fact :
 J'adore explorer des technologies de demain et apprendre chaque jour ! 😊
 
-## 💬 Si vous avez des question concernnant mes projet c'est -> [ici](https://github.com/Denisdcb/Denisdcb/issues)
+## 💬 Si vous avez des question concernant mes projet c'est -> [ici](https://github.com/Denisdcb/Denisdcb/issues)
 </p>
 
 ## 🖲️ Compétences :
