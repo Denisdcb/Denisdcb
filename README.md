@@ -13,7 +13,7 @@
 - **GitHub** : [https://github.com/Denisdcb](https://github.com/Denisdcb)
 - **Discord** : ghosthacker89
 
-## 💻 Try my CLI command!
+## 💻 Essayez mon NPX About Me !
 
 ```bash
 npx denisdcb
