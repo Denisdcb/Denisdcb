@@ -5,14 +5,19 @@
   <img src ="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&Code&pause=1000&repeat=false&color=FFD264&center=true&random=true&width=435&lines=I+am+a+Fullstack+Web+Developer" />
 </p>
 <p>
-  # Bonjour, moi c'est **Denis** 👋, FullStack Web Developer 🇫🇷
+  <h3># Bonjour, moi c'est **Denis** 👋, FullStack Web Developer 🇫🇷 </h3>
 
  💼 Je suis un passionné de développement web et de programmation. Voici quelques informations à mon sujet :
 
 ## 🌍 Où me trouver ?
 - **GitHub** : [https://github.com/Denisdcb](https://github.com/Denisdcb)
 - **Discord** : ghosthacker89
-- **AboutMe NPX** : npx denisdcb
+
+## 💻 Try my CLI command!
+
+```bash
+npx denisdcb
+```
 
 ## 🎯 Objectifs :
 - Apprendre de nouvelles technologies 📚
@@ -51,3 +56,5 @@ J'adore explorer des technologies de demain et apprendre chaque jour ! 😊
     <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
     <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   </p>
+
+  <h3 align="center">✨ Merci et à bientôt ! ✨</h3>
