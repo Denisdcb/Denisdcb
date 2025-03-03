@@ -27,8 +27,8 @@
     <img src="https://img.shields.io/badge/TailwindCSS-76b3fc?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-0964d2?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-fcc42c?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/AdobeXD-e470fe?style=for-the-badge&logo=adobe&logoColor=white" />
-    <img src="https://img.shields.io/badge/AdobePhotoshop-4b68f7?style=for-the-badge&logo=adobe&logoColor=white" />
+    <img src="https://img.shields.io/badge/AdobeXD-e470fe?style=for-the-badge&logo=astra&logoColor=white" />
+    <img src="https://img.shields.io/badge/AdobePhotoshop-4b68f7?style=for-the-badge&logo=astra&logoColor=white" />
   </p>
 
 ## 🌐 Me retrouver :
