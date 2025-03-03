@@ -10,8 +10,7 @@
 💼 Je suis un passionné de développement web et de programmation. Voici quelques informations à mon sujet :
 
 ![](https://komarev.com/ghpvc/?username=Denisdcb&color=blueviolet&abbreviated=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Denisdcb)](https://git.io/streak-stats)
+![Denisdcb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denisdcb&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
 ## 🌍 Où me trouver ?
 - **GitHub** : [<img align="right" src="https://img.shields.io/badge/Mes_Repos-2C2C2C?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Denisdcb?tab=repositories)
