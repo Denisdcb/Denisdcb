@@ -11,7 +11,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Denisdcb&color=blueviolet&abbreviated=true)
 ![Denisdcb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denisdcb&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
-![Denisdcb's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Denisdcb&theme=midnight-purple&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Denisdcb)](https://git.io/streak-stats)
 
 ## 🌍 Où me trouver ?
 - **GitHub** : [<img align="right" src="https://img.shields.io/badge/Mes_Repos-2C2C2C?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Denisdcb?tab=repositories)
