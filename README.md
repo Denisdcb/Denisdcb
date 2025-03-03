@@ -12,7 +12,7 @@
 ## 🌍 Où me trouver ?
 - **GitHub** : [<img align="right" src="https://img.shields.io/badge/Github-2C2C2C?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Denisdcb)
 - **LinkedIn** : [<img align="right" src="https://img.shields.io/badge/LinkedIn-3390FF?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/denisdcb)
-- **Discord** : <img align="right" src="https://img.shields.io/badge/Discord-A51FFC?style=for-the-badge&logo=discord&logoColor=white" />
+- **Discord** : <img align="right" src="https://img.shields.io/badge/Discord%20%3A%20-A51FFC?style=for-the-badge&logo=discord&logoColor=white" />
 
 ## 💻 Essayez mon NPX About Me !
 
