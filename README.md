@@ -9,7 +9,7 @@
   <img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JtaHExMDc3NHBja3o4eGVhOXV2OW9sZGxtNm5zY2hleWFuYXltNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
   <p>
     <h3 align="center">🌐 Me retrouver :</h3>
-    <p style="font-weight:800">- Github</p>
+    <p style="font-weight:bold">- Github</p>
     <p style="font-weight:800">- LinkedIn</p> 
     <p style="font-weight:800">- Discord</p>  
   </p>
