@@ -5,7 +5,7 @@
   <img src ="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&Code&pause=1000&repeat=false&color=FFD264&center=true&random=true&width=435&lines=I+am+a+Fullstack+Web+Developer" />
 </p>
 <p>
-  <h3># Bonjour, moi c'est **Denis** 👋, FullStack Weeb Developer 🇫🇷 </h3>
+  <h3># Bonjour, moi c'est **Denis** 👋, FullStack Web Developer 🇫🇷 </h3>
 
 💼 Je suis un passionné de développement web et de programmation. Voici quelques informations à mon sujet :
 
