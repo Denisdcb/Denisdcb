@@ -31,6 +31,9 @@
     <img src="https://img.shields.io/badge/AdobePhotoshop-4b68f7?style=for-the-badge&logo=astra&logoColor=white" />
     <img src="https://img.shields.io/badge/Wordpress-5e5e5f?style=for-the-badge&logo=wordpress&logoColor=white" />
   </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denisdcb&theme=midnight-purple&show_icons=true&hide_border=true">
+  </p>
 
 ## 🌐 Me retrouver :
 
