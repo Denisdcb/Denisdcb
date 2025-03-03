@@ -25,6 +25,9 @@
     <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
     <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/TailwindCSS-0078D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bootstrap-FF0000?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-607078?style=for-the-badge&logo=figma&logoColor=white" />
   </p>
 
 ## 🌐 Me retrouver :
