@@ -11,7 +11,7 @@
 
 ## 🌍 Où me trouver ?
 - **GitHub** : [https://github.com/Denisdcb](https://github.com/Denisdcb)
-- **LinkedIn** : <a href="https://www.linkedin.com/in/ton-profil" target="_blank" style="display: inline-block; background-color: #0077B5; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-weight: bold;">Visitez mon profil LinkedIn</a>
+- **LinkedIn** : [![Vistier mon profil LinkedIn](https://img.shields.io/badge/LinkedIn-649AFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisdcb)
 - **Discord** : ghosthacker89
 
 ## 💻 Essayez mon NPX About Me !
