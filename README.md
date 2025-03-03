@@ -1,7 +1,7 @@
 ![banner](https://raw.githubusercontent.com/Denisdcb/Denisdcb/refs/heads/main/assets/banner2.webp)
 
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=23&letterSpacing=0.1rem&duration=4000&pause=1000&color=B33FE0F9&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=Hello%2C+I'm+Denis...;Fullstack+Web+Developer)
+  <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=23&letterSpacing=0.1rem&duration=4000&pause=1000&color=B33FE0F9&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=Hello%2C+I'm+Denis...;Fullstack+Web+Developer" />
 </p>
 <p align="center">
   <img src ="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=24&Code&pause=1000&repeat=false&color=FFD264&center=true&random=true&width=435&lines=I+am+a+Fullstack+Web+Developer" />
