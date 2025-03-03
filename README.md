@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/Denisdcb/Denisdcb/refs/heads/main/assets/banner.webp)
+![banner](https://raw.githubusercontent.com/Denisdcb/Denisdcb/refs/heads/main/assets/banner2.webp)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&letterSpacing=0.2rem&Code&pause=1000&repeat=false&color=8FA5FC&center=true&random=true&width=435&lines=Hello%2C+I'm+Denis" />
