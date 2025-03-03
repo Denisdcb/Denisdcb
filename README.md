@@ -10,7 +10,7 @@
  💼 Je suis un passionné de développement web et de programmation. Voici quelques informations à mon sujet :
 
 ## 🌍 Où me trouver ?
-- **GitHub** : [https://github.com/Denisdcb](https://github.com/Denisdcb)
+- **GitHub** : [![Vistier mon profil Github](https://img.shields.io/badge/Github-2C2C2C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Denisdcb)
 - **LinkedIn** : [![Vistier mon profil LinkedIn](https://img.shields.io/badge/LinkedIn-649AFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisdcb)
 - **Discord** : ghosthacker89
 
