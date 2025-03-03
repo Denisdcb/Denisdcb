@@ -1,7 +1,7 @@
-<div style="display: flex; flex-direction: column">
+<div align="center">
   <img src="https://raw.githubusercontent.com/Denisdcb/Denisdcb/refs/heads/main/assets/banner2.webp">
-  <img align="center" src ="https://komarev.com/ghpvc/?username=Denisdcb&color=blueviolet&abbreviated=true">
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=23&letterSpacing=0.1rem&duration=4000&pause=1000&color=B33FE0F9&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=Hello%2C+I'm+Denis...;...Fullstack+Web+Developer" />
+  <img src ="https://komarev.com/ghpvc/?username=Denisdcb&color=blueviolet&abbreviated=true">
+  <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=23&letterSpacing=0.1rem&duration=4000&pause=1000&color=B33FE0F9&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=Hello%2C+I'm+Denis...;...Fullstack+Web+Developer" />
 </div>
 
 <p>
