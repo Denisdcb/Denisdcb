@@ -10,9 +10,9 @@
  💼 Je suis un passionné de développement web et de programmation. Voici quelques informations à mon sujet :
 
 ## 🌍 Où me trouver ?
-- **GitHub** : [![Vistier mon profil Github](https://img.shields.io/badge/Github-2C2C2C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Denisdcb)
-- **LinkedIn** : [![Vistier mon profil LinkedIn](https://img.shields.io/badge/LinkedIn-649AFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisdcb)
-- **Discord** : <img src="https://img.shields.io/badge/Discord-A51FFC?style=for-the-badge&logo=discord&logoColor=white" />
+- **GitHub** : <p align="right">[![Vistier mon profil Github](https://img.shields.io/badge/Github-2C2C2C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Denisdcb)</p>
+- **LinkedIn** : <p align="right">[![Vistier mon profil LinkedIn](https://img.shields.io/badge/LinkedIn-649AFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denisdcb) </p>
+- **Discord** : <img align="right" src="https://img.shields.io/badge/Discord-A51FFC?style=for-the-badge&logo=discord&logoColor=white" />
 
 ## 💻 Essayez mon NPX About Me !
 
