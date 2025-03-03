@@ -5,18 +5,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=23&letterSpacing=0.1rem&duration=4000&pause=1000&color=B33FE0F9&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=Hello%2C+I'm+Denis...;...Fullstack+Web+Developer" />
 </p>
-<div style="display:flex; gap:10px">
-  <img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JtaHExMDc3NHBja3o4eGVhOXV2OW9sZGxtNm5zY2hleWFuYXltNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
-  <p>
-    <h3 align="center">🌐 Me retrouver :</h3>
+<h3 align="center">🌐 Me retrouver :</h3>
 
   - **GitHub** : [<img align="right" src="https://img.shields.io/badge/Mes_Repos-2C2C2C?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Denisdcb?tab=repositories)
   
   - **LinkedIn** : [<img align="right" src="https://img.shields.io/badge/Visiter_mon_profil-3390FF?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/denisdcb)
     
   - **Discord** : <img align="right" src="https://img.shields.io/badge/Discord%20%3A%20ghosthacker89-A51FFC?style=for-the-badge&logo=discord&logoColor=white" />
-  </p>
-</div>
 
 
 ![Denisdcb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denisdcb&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
