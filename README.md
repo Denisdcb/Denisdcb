@@ -9,7 +9,7 @@
 
  💼 Je suis un passionné de développement web et de programmation. Voici quelques informations à mon sujet :
 
- ![](https://komarev.com/ghpvc/?username=Denisdcb)
+ ![](https://komarev.com/ghpvc/?username=Denisdcb&color=blueviolet&abbreviated=true)
 
 ## 🌍 Où me trouver ?
 - **GitHub** : [<img align="right" src="https://img.shields.io/badge/Mes_Repos-2C2C2C?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Denisdcb?tab=repositories)
