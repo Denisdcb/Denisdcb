@@ -53,15 +53,5 @@ npx denisdcb
 ## 🎯 Objectifs :
 - Apprendre de nouvelles technologies 📚
 - Contribuer à des projets open-source 💡
-
-## 🔥 Fun fact :
-J'adore explorer des technologies de demain et apprendre chaque jour ! 😊
-
-## 💬 Si vous avez des question concernant mes projet c'est -> [ici](https://github.com/Denisdcb/Denisdcb/issues)
-</p>
-
 <hr>
 <h3 align="center">✨ Merci et à bientôt ! ✨</h3>
-ga
-git commit -m "Update"
-git push
