@@ -1,3 +1,5 @@
+![banner](https://raw.githubusercontent.com/Denisdcb/Denisdcb/refs/heads/main/assets/banner.webp)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&letterSpacing=0.2rem&Code&pause=1000&repeat=false&color=8FA5FC&center=true&random=true&width=435&lines=Hello%2C+I'm+Denis" />
 </p>
@@ -65,3 +67,6 @@ J'adore explorer des technologies de demain et apprendre chaque jour ! 😊
   </p>
 <hr>
 <h3 align="center">✨ Merci et à bientôt ! ✨</h3>
+ga
+git commit -m "Update"
+git push
