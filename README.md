@@ -1,5 +1,7 @@
-![banner](https://raw.githubusercontent.com/Denisdcb/Denisdcb/refs/heads/main/assets/banner2.webp)
-
+<div>
+  ![banner](https://raw.githubusercontent.com/Denisdcb/Denisdcb/refs/heads/main/assets/banner2.webp)
+  ![Views Count](https://komarev.com/ghpvc/?username=Denisdcb&color=blueviolet&abbreviated=true)
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=23&letterSpacing=0.1rem&duration=4000&pause=1000&color=B33FE0F9&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=Hello%2C+I'm+Denis...;...Fullstack+Web+Developer" />
 </p>
@@ -9,7 +11,7 @@
 
 💼 Je suis un passionné de développement web et de programmation. Voici quelques informations à mon sujet :
 
-![Views Count](https://komarev.com/ghpvc/?username=Denisdcb&color=blueviolet&abbreviated=true)
+
 ![Denisdcb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denisdcb&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
 
 ## 🌍 Où me trouver ?
