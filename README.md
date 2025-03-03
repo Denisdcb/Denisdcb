@@ -5,11 +5,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=DynaPuff&size=23&letterSpacing=0.1rem&duration=4000&pause=1000&color=B33FE0F9&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=Hello%2C+I'm+Denis...;...Fullstack+Web+Developer" />
 </p>
-
-<p>
-  <h3># Bonjour, moi c'est **Denis** 👋, FullStack Web Developer 🇫🇷 </h3>
-
-💼 Je suis un passionné de développement web et de programmation. Voici quelques informations à mon sujet :
+<div style="display:flex">
+  <img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JtaHExMDc3NHBja3o4eGVhOXV2OW9sZGxtNm5zY2hleWFuYXltNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
+  <p>
+    <h3 align="center">🌐 Me retrouver :</h3>
+    <p style="font-weight:800">- Github</p>
+    <p style="font-weight:800">- LinkedIn</p> 
+    <p style="font-weight:800">- Discord</p>  
+  </p>
+</div>
 
 
 ![Denisdcb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denisdcb&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
