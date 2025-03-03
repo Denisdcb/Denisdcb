@@ -14,7 +14,7 @@
   
 - **LinkedIn** : [<img align="right" src="https://img.shields.io/badge/Visiter_mon_profil-3390FF?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/denisdcb)
   
-- **Discord** : [<img align="right" src="https://img.shields.io/badge/Discord%20%3A%20ghosthacker89-A51FFC?style=for-the-badge&logo=discord&logoColor=white" />](blank)
+- **Discord** : [<img align="right" src="https://img.shields.io/badge/Discord%20%3A%20ghosthacker89-A51FFC?style=for-the-badge&logo=discord&logoColor=white" />]
 
 ## 💻 Essayez mon NPX About Me !
 
