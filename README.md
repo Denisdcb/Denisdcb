@@ -9,6 +9,7 @@
   <img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JtaHExMDc3NHBja3o4eGVhOXV2OW9sZGxtNm5zY2hleWFuYXltNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif">
   <p>
     <h3 align="center">🌐 Me retrouver :</h3>
+    
   - **GitHub** : [<img align="right" src="https://img.shields.io/badge/Mes_Repos-2C2C2C?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/Denisdcb?tab=repositories)
   
   - **LinkedIn** : [<img align="right" src="https://img.shields.io/badge/Visiter_mon_profil-3390FF?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/denisdcb)
