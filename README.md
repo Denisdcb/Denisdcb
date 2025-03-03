@@ -22,13 +22,14 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=webtrees&logoColor=white" />
     <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
     <img src="https://img.shields.io/badge/TailwindCSS-76b3fc?style=for-the-badge&logo=tailwindcss&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-0964d2?style=for-the-badge&logo=bootstrap&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-fcc42c?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/AdobeXD-e470fe?style=for-the-badge&logo=astra&logoColor=white" />
     <img src="https://img.shields.io/badge/AdobePhotoshop-4b68f7?style=for-the-badge&logo=astra&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wordpress-5e5e5f?style=for-the-badge&logo=wordpress&logoColor=white" />
   </p>
 
 ## 🌐 Me retrouver :
