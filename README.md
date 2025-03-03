@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/Wordpress-5e5e5f?style=for-the-badge&logo=wordpress&logoColor=white" />
   </p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denisdcb&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Denisdcb&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact">
   </p>
 
 ## 🌐 Me retrouver :
@@ -42,11 +42,6 @@
   - **LinkedIn** : [<img align="right" src="https://img.shields.io/badge/Visiter_mon_profil-3390FF?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/denisdcb)
     
   - **Discord** : <img align="right" src="https://img.shields.io/badge/Discord%20%3A%20ghosthacker89-A51FFC?style=for-the-badge&logo=discord&logoColor=white" />
-
-
-![Denisdcb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Denisdcb&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact)
-
-## 🌍 Où me trouver ?
 
 
 ## 💻 Essayez mon NPX About Me !
